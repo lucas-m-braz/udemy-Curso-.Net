@@ -1,0 +1,10 @@
+D:\Visual\Projetos\Exercício 2 POO e ER\Exercício 2 POO e ER\bin\Debug\netcoreapp2.1\Exercício 2 POO e ER.deps.json
+D:\Visual\Projetos\Exercício 2 POO e ER\Exercício 2 POO e ER\bin\Debug\netcoreapp2.1\Exercício 2 POO e ER.runtimeconfig.json
+D:\Visual\Projetos\Exercício 2 POO e ER\Exercício 2 POO e ER\bin\Debug\netcoreapp2.1\Exercício 2 POO e ER.runtimeconfig.dev.json
+D:\Visual\Projetos\Exercício 2 POO e ER\Exercício 2 POO e ER\bin\Debug\netcoreapp2.1\Exercício 2 POO e ER.dll
+D:\Visual\Projetos\Exercício 2 POO e ER\Exercício 2 POO e ER\bin\Debug\netcoreapp2.1\Exercício 2 POO e ER.pdb
+D:\Visual\Projetos\Exercício 2 POO e ER\Exercício 2 POO e ER\obj\Debug\netcoreapp2.1\Exercício 2 POO e ER.csproj.CoreCompileInputs.cache
+D:\Visual\Projetos\Exercício 2 POO e ER\Exercício 2 POO e ER\obj\Debug\netcoreapp2.1\Exercício 2 POO e ER.AssemblyInfoInputs.cache
+D:\Visual\Projetos\Exercício 2 POO e ER\Exercício 2 POO e ER\obj\Debug\netcoreapp2.1\Exercício 2 POO e ER.AssemblyInfo.cs
+D:\Visual\Projetos\Exercício 2 POO e ER\Exercício 2 POO e ER\obj\Debug\netcoreapp2.1\Exercício 2 POO e ER.dll
+D:\Visual\Projetos\Exercício 2 POO e ER\Exercício 2 POO e ER\obj\Debug\netcoreapp2.1\Exercício 2 POO e ER.pdb

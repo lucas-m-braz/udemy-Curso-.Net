@@ -1,0 +1,10 @@
+D:\Visual\Projetos\Exercício 2 Lista\Exercício 2 Lista\bin\Debug\netcoreapp2.1\Exercício 2 Lista.deps.json
+D:\Visual\Projetos\Exercício 2 Lista\Exercício 2 Lista\bin\Debug\netcoreapp2.1\Exercício 2 Lista.runtimeconfig.json
+D:\Visual\Projetos\Exercício 2 Lista\Exercício 2 Lista\bin\Debug\netcoreapp2.1\Exercício 2 Lista.runtimeconfig.dev.json
+D:\Visual\Projetos\Exercício 2 Lista\Exercício 2 Lista\bin\Debug\netcoreapp2.1\Exercício 2 Lista.dll
+D:\Visual\Projetos\Exercício 2 Lista\Exercício 2 Lista\bin\Debug\netcoreapp2.1\Exercício 2 Lista.pdb
+D:\Visual\Projetos\Exercício 2 Lista\Exercício 2 Lista\obj\Debug\netcoreapp2.1\Exercício 2 Lista.csproj.CoreCompileInputs.cache
+D:\Visual\Projetos\Exercício 2 Lista\Exercício 2 Lista\obj\Debug\netcoreapp2.1\Exercício 2 Lista.AssemblyInfoInputs.cache
+D:\Visual\Projetos\Exercício 2 Lista\Exercício 2 Lista\obj\Debug\netcoreapp2.1\Exercício 2 Lista.AssemblyInfo.cs
+D:\Visual\Projetos\Exercício 2 Lista\Exercício 2 Lista\obj\Debug\netcoreapp2.1\Exercício 2 Lista.dll
+D:\Visual\Projetos\Exercício 2 Lista\Exercício 2 Lista\obj\Debug\netcoreapp2.1\Exercício 2 Lista.pdb

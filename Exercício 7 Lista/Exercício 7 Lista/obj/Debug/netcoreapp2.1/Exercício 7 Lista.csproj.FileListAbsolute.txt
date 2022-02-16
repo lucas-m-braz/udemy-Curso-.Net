@@ -1,0 +1,10 @@
+D:\Visual\Projetos\Exercício 7 Lista\Exercício 7 Lista\bin\Debug\netcoreapp2.1\Exercício 7 Lista.deps.json
+D:\Visual\Projetos\Exercício 7 Lista\Exercício 7 Lista\bin\Debug\netcoreapp2.1\Exercício 7 Lista.runtimeconfig.json
+D:\Visual\Projetos\Exercício 7 Lista\Exercício 7 Lista\bin\Debug\netcoreapp2.1\Exercício 7 Lista.runtimeconfig.dev.json
+D:\Visual\Projetos\Exercício 7 Lista\Exercício 7 Lista\bin\Debug\netcoreapp2.1\Exercício 7 Lista.dll
+D:\Visual\Projetos\Exercício 7 Lista\Exercício 7 Lista\bin\Debug\netcoreapp2.1\Exercício 7 Lista.pdb
+D:\Visual\Projetos\Exercício 7 Lista\Exercício 7 Lista\obj\Debug\netcoreapp2.1\Exercício 7 Lista.csproj.CoreCompileInputs.cache
+D:\Visual\Projetos\Exercício 7 Lista\Exercício 7 Lista\obj\Debug\netcoreapp2.1\Exercício 7 Lista.AssemblyInfoInputs.cache
+D:\Visual\Projetos\Exercício 7 Lista\Exercício 7 Lista\obj\Debug\netcoreapp2.1\Exercício 7 Lista.AssemblyInfo.cs
+D:\Visual\Projetos\Exercício 7 Lista\Exercício 7 Lista\obj\Debug\netcoreapp2.1\Exercício 7 Lista.dll
+D:\Visual\Projetos\Exercício 7 Lista\Exercício 7 Lista\obj\Debug\netcoreapp2.1\Exercício 7 Lista.pdb

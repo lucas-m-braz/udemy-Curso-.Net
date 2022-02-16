@@ -1,0 +1,11 @@
+D:\Visual\Projetos\Morte subita Lucas\Morte subita Lucas\bin\Debug\netcoreapp2.1\Morte subita Lucas.deps.json
+D:\Visual\Projetos\Morte subita Lucas\Morte subita Lucas\bin\Debug\netcoreapp2.1\Morte subita Lucas.runtimeconfig.json
+D:\Visual\Projetos\Morte subita Lucas\Morte subita Lucas\bin\Debug\netcoreapp2.1\Morte subita Lucas.runtimeconfig.dev.json
+D:\Visual\Projetos\Morte subita Lucas\Morte subita Lucas\bin\Debug\netcoreapp2.1\Morte subita Lucas.dll
+D:\Visual\Projetos\Morte subita Lucas\Morte subita Lucas\bin\Debug\netcoreapp2.1\Morte subita Lucas.pdb
+D:\Visual\Projetos\Morte subita Lucas\Morte subita Lucas\obj\Debug\netcoreapp2.1\Morte subita Lucas.csprojAssemblyReference.cache
+D:\Visual\Projetos\Morte subita Lucas\Morte subita Lucas\obj\Debug\netcoreapp2.1\Morte subita Lucas.csproj.CoreCompileInputs.cache
+D:\Visual\Projetos\Morte subita Lucas\Morte subita Lucas\obj\Debug\netcoreapp2.1\Morte subita Lucas.AssemblyInfoInputs.cache
+D:\Visual\Projetos\Morte subita Lucas\Morte subita Lucas\obj\Debug\netcoreapp2.1\Morte subita Lucas.AssemblyInfo.cs
+D:\Visual\Projetos\Morte subita Lucas\Morte subita Lucas\obj\Debug\netcoreapp2.1\Morte subita Lucas.dll
+D:\Visual\Projetos\Morte subita Lucas\Morte subita Lucas\obj\Debug\netcoreapp2.1\Morte subita Lucas.pdb

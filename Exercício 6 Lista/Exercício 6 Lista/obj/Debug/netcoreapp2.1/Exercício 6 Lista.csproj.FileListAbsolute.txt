@@ -1,0 +1,11 @@
+D:\Visual\Projetos\Exercício 6 Lista\Exercício 6 Lista\obj\Debug\netcoreapp2.1\Exercício 6 Lista.csprojAssemblyReference.cache
+D:\Visual\Projetos\Exercício 6 Lista\Exercício 6 Lista\obj\Debug\netcoreapp2.1\Exercício 6 Lista.csproj.CoreCompileInputs.cache
+D:\Visual\Projetos\Exercício 6 Lista\Exercício 6 Lista\obj\Debug\netcoreapp2.1\Exercício 6 Lista.AssemblyInfoInputs.cache
+D:\Visual\Projetos\Exercício 6 Lista\Exercício 6 Lista\obj\Debug\netcoreapp2.1\Exercício 6 Lista.AssemblyInfo.cs
+D:\Visual\Projetos\Exercício 6 Lista\Exercício 6 Lista\bin\Debug\netcoreapp2.1\Exercício 6 Lista.deps.json
+D:\Visual\Projetos\Exercício 6 Lista\Exercício 6 Lista\bin\Debug\netcoreapp2.1\Exercício 6 Lista.runtimeconfig.json
+D:\Visual\Projetos\Exercício 6 Lista\Exercício 6 Lista\bin\Debug\netcoreapp2.1\Exercício 6 Lista.runtimeconfig.dev.json
+D:\Visual\Projetos\Exercício 6 Lista\Exercício 6 Lista\bin\Debug\netcoreapp2.1\Exercício 6 Lista.dll
+D:\Visual\Projetos\Exercício 6 Lista\Exercício 6 Lista\bin\Debug\netcoreapp2.1\Exercício 6 Lista.pdb
+D:\Visual\Projetos\Exercício 6 Lista\Exercício 6 Lista\obj\Debug\netcoreapp2.1\Exercício 6 Lista.dll
+D:\Visual\Projetos\Exercício 6 Lista\Exercício 6 Lista\obj\Debug\netcoreapp2.1\Exercício 6 Lista.pdb

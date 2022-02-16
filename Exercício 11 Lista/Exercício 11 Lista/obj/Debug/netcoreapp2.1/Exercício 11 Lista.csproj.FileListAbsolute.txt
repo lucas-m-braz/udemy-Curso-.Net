@@ -1,0 +1,11 @@
+D:\Visual\Projetos\Exercício 11 Lista\Exercício 11 Lista\bin\Debug\netcoreapp2.1\Exercício 11 Lista.deps.json
+D:\Visual\Projetos\Exercício 11 Lista\Exercício 11 Lista\bin\Debug\netcoreapp2.1\Exercício 11 Lista.runtimeconfig.json
+D:\Visual\Projetos\Exercício 11 Lista\Exercício 11 Lista\bin\Debug\netcoreapp2.1\Exercício 11 Lista.runtimeconfig.dev.json
+D:\Visual\Projetos\Exercício 11 Lista\Exercício 11 Lista\bin\Debug\netcoreapp2.1\Exercício 11 Lista.dll
+D:\Visual\Projetos\Exercício 11 Lista\Exercício 11 Lista\bin\Debug\netcoreapp2.1\Exercício 11 Lista.pdb
+D:\Visual\Projetos\Exercício 11 Lista\Exercício 11 Lista\obj\Debug\netcoreapp2.1\Exercício 11 Lista.csproj.CoreCompileInputs.cache
+D:\Visual\Projetos\Exercício 11 Lista\Exercício 11 Lista\obj\Debug\netcoreapp2.1\Exercício 11 Lista.AssemblyInfoInputs.cache
+D:\Visual\Projetos\Exercício 11 Lista\Exercício 11 Lista\obj\Debug\netcoreapp2.1\Exercício 11 Lista.AssemblyInfo.cs
+D:\Visual\Projetos\Exercício 11 Lista\Exercício 11 Lista\obj\Debug\netcoreapp2.1\Exercício 11 Lista.dll
+D:\Visual\Projetos\Exercício 11 Lista\Exercício 11 Lista\obj\Debug\netcoreapp2.1\Exercício 11 Lista.pdb
+D:\Visual\Projetos\Exercício 11 Lista\Exercício 11 Lista\obj\Debug\netcoreapp2.1\Exercício 11 Lista.csprojAssemblyReference.cache

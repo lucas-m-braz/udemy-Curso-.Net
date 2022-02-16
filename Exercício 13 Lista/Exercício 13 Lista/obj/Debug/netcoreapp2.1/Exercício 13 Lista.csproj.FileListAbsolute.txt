@@ -1,0 +1,11 @@
+D:\Visual\Projetos\Exercício 13 Lista\Exercício 13 Lista\bin\Debug\netcoreapp2.1\Exercício 13 Lista.deps.json
+D:\Visual\Projetos\Exercício 13 Lista\Exercício 13 Lista\bin\Debug\netcoreapp2.1\Exercício 13 Lista.runtimeconfig.json
+D:\Visual\Projetos\Exercício 13 Lista\Exercício 13 Lista\bin\Debug\netcoreapp2.1\Exercício 13 Lista.runtimeconfig.dev.json
+D:\Visual\Projetos\Exercício 13 Lista\Exercício 13 Lista\bin\Debug\netcoreapp2.1\Exercício 13 Lista.dll
+D:\Visual\Projetos\Exercício 13 Lista\Exercício 13 Lista\bin\Debug\netcoreapp2.1\Exercício 13 Lista.pdb
+D:\Visual\Projetos\Exercício 13 Lista\Exercício 13 Lista\obj\Debug\netcoreapp2.1\Exercício 13 Lista.csprojAssemblyReference.cache
+D:\Visual\Projetos\Exercício 13 Lista\Exercício 13 Lista\obj\Debug\netcoreapp2.1\Exercício 13 Lista.csproj.CoreCompileInputs.cache
+D:\Visual\Projetos\Exercício 13 Lista\Exercício 13 Lista\obj\Debug\netcoreapp2.1\Exercício 13 Lista.AssemblyInfoInputs.cache
+D:\Visual\Projetos\Exercício 13 Lista\Exercício 13 Lista\obj\Debug\netcoreapp2.1\Exercício 13 Lista.AssemblyInfo.cs
+D:\Visual\Projetos\Exercício 13 Lista\Exercício 13 Lista\obj\Debug\netcoreapp2.1\Exercício 13 Lista.dll
+D:\Visual\Projetos\Exercício 13 Lista\Exercício 13 Lista\obj\Debug\netcoreapp2.1\Exercício 13 Lista.pdb
